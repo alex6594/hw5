@@ -1,0 +1,4 @@
+
+some_func was called at 2022-07-06 15:36:33.552408 
+Used args: (1, 5) и {} 
+Result status some_func: 6
